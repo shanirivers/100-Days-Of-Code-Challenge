@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 021: November 27, 2017
+
+**Today's Progress**: Worked on getting the navigation bar styling and buttons to work. 
+
+**Thoughts**: Implementing a nav bar programmatically. 
+
 ### Day 020: November 26, 2017
 
 **Today's Progress**: Started to implement editting functionality. 
