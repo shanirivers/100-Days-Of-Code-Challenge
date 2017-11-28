@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 022: November 28, 2017
+
+**Today's Progress**: Fixed nav bar appearance and started researching on how to solve my the save edit bug. 
+
+**Thoughts**: It's amazing how a fresh pair of eyes can solve a problem.  
+
 ### Day 021: November 27, 2017
 
 **Today's Progress**: Worked on getting the navigation bar styling and buttons to work. 
