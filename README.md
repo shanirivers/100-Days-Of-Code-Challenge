@@ -1,18 +1,3 @@
----
-title: This is my title
-layout: post
----
-
-Here is my page.
-
-## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
-
-#
-
 # 100 Days Of Code - Log
 
 ### Day 022: November 28, 2017
@@ -146,3 +131,9 @@ Here is my page.
 
 
 # I've joined the #100DaysOfCode Challenge. I've graciously adapted this from the  [100 Days of Code Official Site](http://100daysofcode.com/)
+
+* [Rules](rules.md)
+* [Log - click here to see my progress](log.md)
+* [FAQ](FAQ.md)
+* [Resources](resources.md)
+
