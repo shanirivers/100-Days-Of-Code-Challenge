@@ -131,7 +131,7 @@
 **Thoughts:** I'm trying to get a handle on working with Sketch, but I've learned a lot about the updates over the past 2 days and now feel pretty comfortable with it and energized by first iteration of the app's UI. Learned how to turn hex code into UIColor using Swift
 
 
-###I've joined the #100DaysOfCode Challenge. I've graciously adapted this from the  [100 Days of Code Official Site](http://100daysofcode.com/)
+#### I've joined the #100DaysOfCode Challenge. I've graciously adapted this from the  [100 Days of Code Official Site](http://100daysofcode.com/)
 
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
