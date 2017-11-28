@@ -1,3 +1,8 @@
+---
+layout: post
+title: 100 Days Of Code Log
+---
+
 # 100 Days Of Code - Log
 
 ### Day 022: November 28, 2017
