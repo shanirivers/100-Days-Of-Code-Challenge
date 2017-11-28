@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>{{ page.title }}</title>
+    <title>100 Days of Code</title>
   </head>
   <body>
 
@@ -144,4 +144,4 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 </body>
-</ html>
+</html>
