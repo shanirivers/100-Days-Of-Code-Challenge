@@ -5,6 +5,18 @@ title: 100 Days Of Code Log
 
 # 100 Days Of Code - Log
 
+### Day 024: November 30, 2017
+
+**Today's Progress**:   Fixed edit and segue issues. Onto adding categories.
+
+**Thoughts**: Bejeezus! It's truly amazing how a fresh pair of eyes can solve a problem.  My edit bug was just a logic issue, just had to change a == to a !=. 
+
+### Day 023: November 29, 2017
+
+**Today's Progress**: Worked on trying to solve edit bug and segue issues. 
+
+**Thoughts**: Redid segue setup and removed code for the navigation bar that I did for the edit view. Was able to get it to work and for the correct pop/modal behavior I wanted for the two actions - edit and add. Still couldn't get the edit item to replace the existing. 
+
 ### Day 022: November 28, 2017
 
 **Today's Progress**: Fixed nav bar appearance and started researching on how to solve my the save edit bug. 
