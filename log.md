@@ -3,7 +3,18 @@ layout: post
 title: 100 Days Of Code Log
 ---
 
+
+
+ITableView Section Header Change Style of Current Header
+
+
 # 100 Days Of Code - Log
+
+### Day 025: December 2, 2017
+
+**Today's Progress**: Changed the style of the section headers for my tableview programmatically. Apparently, I didn't fix my edit and new item bugs - so I positive that I did this time. 
+
+**Thoughts**: Just when you think that you've fixed something and than you find out that you didn't. 
 
 ### Day 024: November 30, 2017
 
