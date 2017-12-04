@@ -2,14 +2,13 @@
 layout: post
 title: 100 Days Of Code Log
 ---
+# 100 Days Of Code - Log
 
 ### Day 026: December 4, 2017
 
 **Today's Progress**: Adding another attibute for tasks, categories. Designed icons in Sketch yesterday (Dec 3). Began learning about UIPickerView and how to implement it.  
 
 **Thoughts**: Picker view is interesting, just did a dry test run in a temp project to test it out. 
-
-# 100 Days Of Code - Log
 
 ### Day 025: December 2, 2017
 
