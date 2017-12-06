@@ -6,7 +6,7 @@ title: 100 Days Of Code Log
 
 ### Day 028: December 6, 2017
 
-**Today's Progress**: Implemented UIPicker for categories. Added category property to my model. 
+**Today's Progress**: Implemented UIPickerView for categories. Added category property to my model. 
 
 **Thoughts**: Didn't take too long to figure it out, since its pretty similar to date picker but with more methods to implement, as date picker is kind of prepackaged.
 
