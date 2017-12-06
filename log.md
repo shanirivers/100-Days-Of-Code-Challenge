@@ -4,6 +4,12 @@ title: 100 Days Of Code Log
 ---
 # 100 Days Of Code - Log
 
+### Day 027: December 5, 2017
+
+**Today's Progress**: Added UIPicker to view and had fun with figuring out how to control constraints in code. 
+
+**Thoughts**: Was really surprised that you could create connections to constraints and control their values. I know, I'm weird. LOL!
+
 ### Day 026: December 4, 2017
 
 **Today's Progress**: Adding another attibute for tasks, categories. Designed icons in Sketch yesterday (Dec 3). Began learning about UIPickerView and how to implement it.  
