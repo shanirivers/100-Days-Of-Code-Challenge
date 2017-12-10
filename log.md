@@ -4,6 +4,18 @@ title: 100 Days Of Code Log
 ---
 # 100 Days Of Code - Log
 
+### Day 030: December 8, 2017
+
+**Today's Progress**: Redesigned icons and update the itme view controller to accommodate new category icons (added a imageview) and rework began on UI. 
+
+**Thoughts**: Not sure how I want it to look now, but I do know I want it to be clean 
+
+### Day 029: December 7, 2017
+
+**Today's Progress**: Was able to get the correct category icon to appear in the custom tableview cell.
+
+**Thoughts**: Will need to redesign app to make it look better. 
+
 ### Day 028: December 6, 2017
 
 **Today's Progress**: Implemented UIPickerView for categories. Added category property to my model. 
