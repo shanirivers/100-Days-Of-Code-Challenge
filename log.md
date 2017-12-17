@@ -4,6 +4,12 @@ title: 100 Days Of Code Log
 ---
 # 100 Days Of Code - Log
 
+### Day 031: December 12-17, 2017
+
+**Today's Progress**: Had a horrible bug that was affecting my custom tableview cell's constraints. I created the constraints all in code using visual format language and so it took me a while to figure out since the only way to debug it is at run-time. It basically took one line (minus a variable to hold the value) to reset the frame. 
+
+**Thoughts**: The error had to do with the frame, so the constraints rely on the frame in a way. I lost about a week on trying to figure this out, but I now am more knowledgable on frames and constraints then I ever was. 
+
 ### Day 030: December 8, 2017
 
 **Today's Progress**: Redesigned icons and update the itme view controller to accommodate new category icons (added a imageview) and rework began on UI. 
