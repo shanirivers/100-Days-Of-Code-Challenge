@@ -4,6 +4,18 @@ title: 100 Days Of Code Log
 ---
 # 100 Days Of Code - Log
 
+### Day 033: December 27, 2017
+
+**Today's Progress**: Wrote notes on how to create search bar and a custom one, so it makes sense to me. Implemented a custom bar successfully to project.  
+
+**Thoughts**: Took a while to write out notes, but it helped me a lot to have it written out and to follow it to implement one. 
+
+### Day 032: December 26-25, 2017
+
+**Today's Progress**: Did two tutorials to figure out how to create a search bar and the other was how to create a custom one.  
+
+**Thoughts**: Took a bit to figure it out as both tuts had deprecated code.  
+
 ### Day 031: December 12-17, 2017
 
 **Today's Progress**: Had a horrible bug that was affecting my custom tableview cell's constraints. I created the constraints all in code using visual format language and so it took me a while to figure out since the only way to debug it is at run-time. It basically took one line (minus a variable to hold the value) to reset the frame. 
