@@ -4,6 +4,12 @@ title: 100 Days Of Code Log
 ---
 # 100 Days Of Code - Log
 
+### Day 034: January 2, 2018
+
+**Today's Progress**: Started coding to add existing reminders to app so that user can manage reminders and calendar items as well.
+
+**Thoughts**: Sporiadically studied up on how to add reminder and calendar items to app all week, namely EKEventstore. Still not sure how I want to do this. 
+
 ### Day 033: December 27, 2017
 
 **Today's Progress**: Wrote notes on how to create search bar and a custom one, so it makes sense to me. Implemented a custom bar successfully to project.  
