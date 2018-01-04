@@ -4,6 +4,13 @@ title: 100 Days Of Code Log
 ---
 # 100 Days Of Code - Log
 
+### Day 035: January 3, 2018
+
+**Today's Progress**: Reversed back to previous branch, I don't want to add reminders or calendar just yet as it's not apart of my MVP. Started learning and tinker with UserNotifications instead. 
+
+**Thoughts**: Started studying up on UserNotifications class and tinkering with it on mock apps.
+
+
 ### Day 034: January 2, 2018
 
 **Today's Progress**: Started coding to add existing reminders to app so that user can manage reminders and calendar items as well.
