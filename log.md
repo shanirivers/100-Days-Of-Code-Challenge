@@ -4,7 +4,13 @@ title: 100 Days Of Code Log
 ---
 # 100 Days Of Code - Log
 
-### Day 035: January 3, 2018
+### Day 036: January 7, 2018
+
+**Today's Progress**: Started implementing notifications, have a bug with registering categories, but got it to work.  
+
+**Thoughts**: Having second thoughts on my app, that's why I have missed a couple of days. Going to finish it anyway.
+
+### Day 035: January 3-5, 2018
 
 **Today's Progress**: Reversed back to previous branch, I don't want to add reminders or calendar just yet as it's not apart of my MVP. Started learning and tinker with UserNotifications instead. 
 
